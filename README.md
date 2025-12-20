@@ -5,3 +5,5 @@
 Este repositorio contiene ejercicios para el curso de DevOps.
 
 - Contribución realizada a través de un pull requestgit add README.md
+
+ACTUALIZACION URGENTE: Todos los sistemas operativos han sido cambiados.
