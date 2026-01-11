@@ -4,10 +4,6 @@
 
 Este repositorio contiene ejercicios para el curso de DevOps.
 
-- Contribución realizada a través de un pull requestgit add README.md
+- Contribución realizada a través de un pull request
 
-ACTUALIZACION URGENTE: Todos los sistemas operativos han sido cambiados.
 
-Esta es una correcion para el bug DG-16
-
-Probando piline markdown Carlos Navarrete
